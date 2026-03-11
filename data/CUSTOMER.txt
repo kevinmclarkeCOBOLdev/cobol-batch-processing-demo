@@ -1,0 +1,10 @@
+000001Acme Corporation              123 Main Street              New York            NY10001     sales@acme.com                                    (212) 555-1000 000500000000025000002026-01-15A      
+000002Best Products Inc             456 Oak Avenue               Boston              MA02101     info@bestproducts.com                             (617) 555-2000 000300000000010000002026-01-20A      
+000003Coastal Supplies LLC          789 Beach Boulevard          Miami               FL33101     orders@coastal.com                                (305) 555-3000 000400000000015000002026-01-25A      
+000004Dynamic Systems Corp          321 Tech Drive               San Francisco       CA94102     contact@dynamic.com                               (415) 555-4000 001000000000075000002026-02-01A      
+000005Eagle Enterprises             654 Mountain Road            Denver              CO80201     sales@eagle.com                                   (303) 555-5000 000250000000005000002026-02-05A      
+000006Frontier Industries           987 Prairie Lane             Dallas              TX75201     support@frontier.com                              (214) 555-6000 000600000000045000002026-02-10A      
+000007Global Trading Co             147 Harbor Street            Seattle             WA98101     info@globaltrading.com                            (206) 555-7000 000750000000060000002026-02-12A      
+000008Horizon Manufacturing         258 Industrial Park          Detroit             MI48201     orders@horizon.com                                (313) 555-8000 000500000000030000002026-02-14A      
+000009Interstate Commerce           369 Commerce Way             Atlanta             GA30301     sales@interstate.com                              (404) 555-9000 000450000000025000002026-02-15A      
+000010Jupiter Technologies          741 Innovation Drive         Austin              TX78701     tech@jupiter.com                                  (512) 555-1234 000800000000080000002026-02-16I
