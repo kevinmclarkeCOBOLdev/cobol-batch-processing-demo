@@ -1,0 +1,11 @@
+=============================================
+CUSTOMER MASTER FILE UPDATE - RUN SUMMARY
+=============================================
+MASTER RECORDS READ:    0000005
+MASTER RECORDS WRITTEN: 0000006
+TRANSACTIONS READ:      00000008
+  ADDS:                 0000002
+  UPDATES:              0000001
+  DELETES:              0000001
+ERRORS DETECTED:        0000005
+=============================================
