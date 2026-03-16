@@ -728,9 +728,6 @@
                PERFORM 9900-FATAL-ERROR
            END-IF
            MOVE SPACES                      TO WS-REPORT-LINE.
-       9100-WRITE-REPORT-LINE-EXIT.
-           EXIT.
-
       *---------------------------------------------------------------*
       * FATAL ERROR HANDLER                                            *
       * DISPLAY DIAGNOSTIC MESSAGE TO SYSOUT                          *
